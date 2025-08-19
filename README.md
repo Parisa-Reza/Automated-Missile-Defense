@@ -3,5 +3,6 @@ Two of them will move up-down and left-right and the last servo will trigger the
 
 ## PROJECT DEMO
 
-![photo_2025-08-19_23-03-55](https://github.com/user-attachments/assets/f909c1c8-d4b7-4b31-a0e4-a4876f0dbb39)
+![photo_2025-08-19_23-03-55](https://github.com/user-attachments/assets/c3a23c37-e87d-471a-8e08-b74e333b7fb4)
+
 
